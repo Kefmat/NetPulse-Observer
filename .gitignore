@@ -1,0 +1,7 @@
+# Ekskluder alle logger og genererte data
+/logs/*.csv
+/logs/*.html
+/logs/*.log
+
+# Ekskluder eventuelle midlertidige filer
+*.tmp

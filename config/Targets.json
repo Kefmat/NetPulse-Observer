@@ -1,0 +1,29 @@
+{
+    "MonitoredEndpoints": [
+        {
+            "Name": "Lokal Gateway",
+            "Address": "192.168.1.1",
+            "Type": "Infrastructure"
+        },
+        {
+            "Name": "Google DNS",
+            "Address": "8.8.8.8",
+            "Type": "External"
+        },
+        {
+            "Name": "Local SQL Test",
+            "Address": "127.0.0.1",
+            "Port": 1433,
+            "Type": "Application"
+        }
+    ],
+    "Settings": {
+        "PingCount": 5,
+        "WarningThresholdMS": 50,
+        "CriticalThresholdMS": 150,
+        "LogRetentionDays": 30,
+        "IntervalMinutes": 5,
+        "AlertEmail": "it-admin@bedrift.no",
+        "SmtpServer": "smtp.bedrift.no"
+    }
+}
