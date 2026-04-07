@@ -14,6 +14,8 @@ jitter og pakketap, som ofte er underliggende årsaker til trege
 ERP-systemer, korrupte databaser og dårlig brukeropplevelse i
 PLM-miljøer.
 
+<img width="1884" height="657" alt="image" src="https://github.com/user-attachments/assets/32618c80-4592-4d8f-bfcd-40e0b32410b5" />
+
 ## Arkitektur og systemdesign
 
 NetPulse Observer er bygget på en modulær arkitektur som følger prinsippet
